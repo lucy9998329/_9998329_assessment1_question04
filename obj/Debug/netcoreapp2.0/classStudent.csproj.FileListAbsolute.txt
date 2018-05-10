@@ -1,0 +1,10 @@
+C:\Users\lucyl\desktop\classStudent\bin\Debug\netcoreapp2.0\classStudent.deps.json
+C:\Users\lucyl\desktop\classStudent\bin\Debug\netcoreapp2.0\classStudent.runtimeconfig.json
+C:\Users\lucyl\desktop\classStudent\bin\Debug\netcoreapp2.0\classStudent.runtimeconfig.dev.json
+C:\Users\lucyl\desktop\classStudent\bin\Debug\netcoreapp2.0\classStudent.dll
+C:\Users\lucyl\desktop\classStudent\bin\Debug\netcoreapp2.0\classStudent.pdb
+C:\Users\lucyl\desktop\classStudent\obj\Debug\netcoreapp2.0\classStudent.csproj.CoreCompileInputs.cache
+C:\Users\lucyl\desktop\classStudent\obj\Debug\netcoreapp2.0\classStudent.AssemblyInfoInputs.cache
+C:\Users\lucyl\desktop\classStudent\obj\Debug\netcoreapp2.0\classStudent.AssemblyInfo.cs
+C:\Users\lucyl\desktop\classStudent\obj\Debug\netcoreapp2.0\classStudent.dll
+C:\Users\lucyl\desktop\classStudent\obj\Debug\netcoreapp2.0\classStudent.pdb
